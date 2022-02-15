@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+  font-family: "Montserrat" !important;
+}
+.avatar {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  width: 80px !important;
+  height: 80px !important;
+  border-radius: 90% !important;
+}
+
+.bd-placeholder-img {
+   font-size: 1.125rem;
+   text-anchor: middle;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   user-select: none;
+ }
+
+ .list-group-item {
+   background-color: transparent !important;
+ }
+
+ .carousel {
+   border-radius: 55px;
+   overflow:hidden;
+ }
+
+ header {
+   padding-bottom: 15px;
+ }
+
+ @media (min-width: 768px) {
+   .bd-placeholder-img-lg {
+     font-size: 3.5rem;
+   }
+ }
+
+ img {
+   float: left;
+   width: 200px;
+   height: 400px;
+   object-fit: cover;
+ }
+
+body {
+   background-color: #7882A4 !important;
+}
+
+.container-fluid {
+  border-radius: 20px;
+}
+
+.pliant-card {
+  background-color: #C0A080;
+}
+
+.linkedin-card {
+  background-color: #D1D1D1;
+}
+
+.title-card {
+  background-color: #EFEFEF;
+}
+
+.light-text {
+  color: #EFEFEF;
+  text-shadow: 1px, 1px, 1px, 1px;
+}
+
+.navbar-brand {
+  max-height: 50px;
+  max-width: 50px;
+}
